@@ -2,15 +2,15 @@
 A discord bot to get the status of the Starknet Node
 
 Get the Discord Secret Key from here https://discord.com/developers/applications
-Paste it at discord_bot.py file where you will my token
+Paste it in discord_bot.py file where you will see a variable with token
 
 create a virtual environment and activate it 
-than run the command "pip install requirements.txt" without inverted commas
+then run the command "pip install requirements.txt" without inverted commas
 
 
 
 To run the script with systemd 
-create a xyx.service file at /etc/systemd/system/
+create a xyx.service(you can use any name like bot.service) file at /etc/systemd/system/
  paste the below code at xyz.service file and save it
  
  
